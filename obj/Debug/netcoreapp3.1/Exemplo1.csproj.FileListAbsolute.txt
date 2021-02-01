@@ -1,0 +1,13 @@
+C:\Users\Souza Britos\OneDrive\Cursos\C#\Exemplo1\bin\Debug\netcoreapp3.1\Exemplo1.exe
+C:\Users\Souza Britos\OneDrive\Cursos\C#\Exemplo1\bin\Debug\netcoreapp3.1\Exemplo1.deps.json
+C:\Users\Souza Britos\OneDrive\Cursos\C#\Exemplo1\bin\Debug\netcoreapp3.1\Exemplo1.runtimeconfig.json
+C:\Users\Souza Britos\OneDrive\Cursos\C#\Exemplo1\bin\Debug\netcoreapp3.1\Exemplo1.runtimeconfig.dev.json
+C:\Users\Souza Britos\OneDrive\Cursos\C#\Exemplo1\bin\Debug\netcoreapp3.1\Exemplo1.dll
+C:\Users\Souza Britos\OneDrive\Cursos\C#\Exemplo1\bin\Debug\netcoreapp3.1\Exemplo1.pdb
+C:\Users\Souza Britos\OneDrive\Cursos\C#\Exemplo1\obj\Debug\netcoreapp3.1\Exemplo1.csprojAssemblyReference.cache
+C:\Users\Souza Britos\OneDrive\Cursos\C#\Exemplo1\obj\Debug\netcoreapp3.1\Exemplo1.AssemblyInfoInputs.cache
+C:\Users\Souza Britos\OneDrive\Cursos\C#\Exemplo1\obj\Debug\netcoreapp3.1\Exemplo1.AssemblyInfo.cs
+C:\Users\Souza Britos\OneDrive\Cursos\C#\Exemplo1\obj\Debug\netcoreapp3.1\Exemplo1.csproj.CoreCompileInputs.cache
+C:\Users\Souza Britos\OneDrive\Cursos\C#\Exemplo1\obj\Debug\netcoreapp3.1\Exemplo1.dll
+C:\Users\Souza Britos\OneDrive\Cursos\C#\Exemplo1\obj\Debug\netcoreapp3.1\Exemplo1.pdb
+C:\Users\Souza Britos\OneDrive\Cursos\C#\Exemplo1\obj\Debug\netcoreapp3.1\Exemplo1.genruntimeconfig.cache
