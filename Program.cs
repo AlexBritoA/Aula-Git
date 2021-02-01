@@ -10,10 +10,9 @@ namespace Exemplo1
         static void Main(string[] args)
         {
             Console.WriteLine("Olá Mundo!");
-
-            Console.WriteLine();
-
             Console.WriteLine("Let's go!");
+            Console.WriteLine("Who are you? Let's to study?");
+            Console.WriteLine("Now it's for real!");
             Console.WriteLine();
         }
     }
