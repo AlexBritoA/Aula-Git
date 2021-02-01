@@ -12,6 +12,9 @@ namespace Exemplo1
             Console.WriteLine("Olá Mundo!");
 
             Console.WriteLine();
+
+            Console.WriteLine("Let's go!");
+            Console.WriteLine();
         }
     }
 }
