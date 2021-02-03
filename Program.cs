@@ -13,6 +13,8 @@ namespace Exemplo1
             Console.WriteLine("Let's go!");
             Console.WriteLine("Who are you? Let's to study?");
             Console.WriteLine("Now it's for real!");
+            Console.WriteLine("hoje suei!");
+
             Console.WriteLine();
         }
     }
